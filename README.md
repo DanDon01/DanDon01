@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanDon01
 - 👀 I’m interested in ... Retro games, emulation, python, pi, arduino, home assistant.
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
